@@ -1,4 +1,4 @@
-version 0.1
+version: 0.1
 
 phases:
   build:
@@ -11,4 +11,3 @@ artifacts:
     - Paul_Keating.pdf
     - styles/main.css
     - images/*
-    
